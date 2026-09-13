@@ -194,3 +194,52 @@ hr {
     display: flex;
     flex-direction: column;
 }
+
+.footer {
+    background-color: #028b4b;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.github-link {
+    color: #63b3ed;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.github-link:hover {
+    color: #3c6f94;
+}
+
+.linkedin-link {
+    color: #0A66C2;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.linkedin-link:hover {
+    color: #004182;
+}
+
+.copyright {
+    font-size: 14px;
+    color: #fff;
+}
+
+.rs-school-logo {
+    width: 120px;
+    height: auto;
+    display: block;
+}
