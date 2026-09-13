@@ -1,1 +1,1 @@
-# https://tjgharkava.github.io/rsschool-cv/
+# rsschool-cv
