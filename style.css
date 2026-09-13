@@ -81,10 +81,10 @@ header {
     padding: 10px 0;
 }
 
-.cv-details h3,
-.cv-tools h3,
-.cv-education h3,
-.cv-languages h3,
+.cv-details h2,
+.cv-tools h2,
+.cv-education h2,
+.cv-languages h2,
 .about h2,
 .experience h2,
 .code-examples h2 {
